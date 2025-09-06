@@ -1,3 +1,7 @@
-# Locksmith Table (Слесарный стол)
-Модификация для Dayz, добавляющая в игру стол для крафта, ремонта и других действий с предметами.
-![iskhodnik_stol_slesarya7](https://github.com/user-attachments/assets/eddab4c6-476a-4c7b-aaf1-173ce75a558f)
+# GHOST's dev
+Создание модификаций для игры Dayz. Готовые модификации и создание модификаций под заказ.
+Creating modifications for the Dayz game. Ready-made modifications and custom modification creation.
+
+![GHOST_Dev](https://github.com/user-attachments/assets/67d9ef2c-a1a0-446a-a427-3b764d8b4849)
+
+
